@@ -1,0 +1,50 @@
+Use [S]ample data or [M]anual entry? 
+FINAL WEEKLY SCHEDULE
+================================================================
+
+Monday
+  Morning   : Ava, Diego
+  Afternoon : Ben, Emma
+  Evening   : Ivy, Chloe
+
+Tuesday
+  Morning   : Finn, Chloe
+  Afternoon : Grace, Diego
+  Evening   : Hassan, Emma
+
+Wednesday
+  Morning   : Ben, Hassan
+  Afternoon : Finn, Ivy
+  Evening   : Grace, Ava
+
+Thursday
+  Morning   : Diego, Grace
+  Afternoon : Hassan, Emma
+  Evening   : Finn, Ivy
+
+Friday
+  Morning   : Chloe, Ivy
+  Afternoon : Ava, Grace
+  Evening   : Ben, Emma
+
+Saturday
+  Morning   : Ben, Hassan
+  Afternoon : Chloe, Finn
+  Evening   : Ava, Diego
+
+Sunday
+  Morning   : Ava, Grace
+  Afternoon : Emma, Ben
+  Evening   : Ivy, Chloe
+
+DAYS WORKED
+----------------------------------------------------------------
+  Ava       : 5
+  Ben       : 5
+  Chloe     : 5
+  Diego     : 4
+  Emma      : 5
+  Finn      : 4
+  Grace     : 5
+  Hassan    : 4
+  Ivy       : 5
